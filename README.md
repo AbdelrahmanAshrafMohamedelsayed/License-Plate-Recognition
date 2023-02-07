@@ -13,7 +13,7 @@
 - <a href ="#-image-processing-algorithms-applied"> :mag_right: Image processing Algorithms applied</a>
 - <a href ="#modules"> 🌎 Modules</a>
   -  <a href="#-dedect-characters">  Dedect characters </a>
-  -  <a href="#Characters-Recognition">  Characters Recognition </a>
+  -  <a href="#-characters-recognition">  Characters Recognition </a>
 - <a href ="#contributors"> ✨ Contributors</a>
 - <a href ="#license"> 🔒 License</a>
 <hr/>
@@ -157,13 +157,35 @@ $ git clone https://github.com/AbdelrahmanAshrafMohamedelsayed/License-Plate-Rec
 <br>
 <hr/>
 
-## <a id="Dedect-characters"></a> Characters Recognition
+## <a id="-characters-recognition"></a> Characters Recognition
 ### How convert characters images to text by [OCR By Machine Learning]
 > this module is itrative and run foreach character
 <br>
+
+
 1. ####  **read the character image**                            
   <div align="center">
-<img src="./readmeImages/12.png" width="525px" alt="License plate recognition" align="center""/>
+<img src="./readmeImages/12.png" width="200px" height="200px" alt="License plate recognition" align="center""/>
 </div>
 <br>
 <hr/>
+                                                                                                             
+                                                                                                             
+## <a id="contributors"></a> Contributing
+
+> Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+
+#### Contributors
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed"><img src="https://avatars.githubusercontent.com/u/97232730?s=400" width="150px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/abdalhamedemad"><img src="https://avatars.githubusercontent.com/u/76442606?v=4" width="150px;" alt=""/><br /><sub><b>Abdelhameed Emad</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Karim-Mohamed20"><img src="https://avatars.githubusercontent.com/u/101477261?v=4" width="150px;" alt=""/><br /><sub><b>Kareem Mohamed</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/khaled-farahat"><img src="https://cdn1.img.sputnikarabic.ae/img/101897/08/1018970827_7:0:2992:1688_600x0_80_0_0_03dcfd0856edcfa44aa1892e188c1a05.jpg.webp" width="150px;"  height="150px;" alt=""/><br /><sub><b>khaled Farahat</b></sub></a><br /></td>
+  </tr>
+ </table>
+
+## 🔒 License <a id ="license"></a>
+
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/AdhamAliAbdelAal/Grades-autofiller/blob/master/LICENSE) for more information ©Mr.Abdo.
