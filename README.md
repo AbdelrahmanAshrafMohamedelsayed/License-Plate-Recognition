@@ -157,4 +157,13 @@ $ git clone https://github.com/AbdelrahmanAshrafMohamedelsayed/License-Plate-Rec
 <br>
 <hr/>
 
-
+## <a id="Dedect-characters"></a> Characters Recognition
+### How convert characters images to text by [OCR By Machine Learning]
+> this module is itrative and run foreach character
+<br>
+1. ####  **read the character image**                            
+  <div align="center">
+<img src="./readmeImages/12.png" width="525px" alt="License plate recognition" align="center""/>
+</div>
+<br>
+<hr/>
