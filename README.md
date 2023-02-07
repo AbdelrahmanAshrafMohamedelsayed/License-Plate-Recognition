@@ -188,4 +188,4 @@ $ git clone https://github.com/AbdelrahmanAshrafMohamedelsayed/License-Plate-Rec
 
 ## 🔒 License <a id ="license"></a>
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/AdhamAliAbdelAal/Grades-autofiller/blob/master/LICENSE) for more information ©Mr.Abdo.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/AbdelrahmanAshrafMohamedelsayed/License-Plate-Recognition/blob/main/LICENSE) for more information ©Mr.Abdo.
