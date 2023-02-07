@@ -182,7 +182,7 @@ $ git clone https://github.com/AbdelrahmanAshrafMohamedelsayed/License-Plate-Rec
     <td align="center"><a href="https://github.com/AbdelrahmanAshrafMohamedelsayed"><img src="https://avatars.githubusercontent.com/u/97232730?s=400" width="150px;" alt=""/><br /><sub><b>Abdelrahman Ashraf</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/abdalhamedemad"><img src="https://avatars.githubusercontent.com/u/76442606?v=4" width="150px;" alt=""/><br /><sub><b>Abdelhameed Emad</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Karim-Mohamed20"><img src="https://avatars.githubusercontent.com/u/101477261?v=4" width="150px;" alt=""/><br /><sub><b>Kareem Mohamed</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/khaled-farahat"><img src="https://cdn1.img.sputnikarabic.ae/img/101897/08/1018970827_7:0:2992:1688_600x0_80_0_0_03dcfd0856edcfa44aa1892e188c1a05.jpg.webp" width="150px;"  height="150px;" alt=""/><br /><sub><b>khaled Farahat</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/khaled-farahat"><img srcش="https://cdn1.img.sputnikarabic.ae/img/101897/08/1018970827_7:0:2992:1688_600x0_80_0_0_03dcfd0856edcfa44aa1892e188c1a05.jpg.webp" width="150px;"  height="150px;" alt=""/><br /><sub><b>khaled Farahat</b></sub></a><br /></td>
   </tr>
  </table>
 
